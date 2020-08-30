@@ -8,6 +8,7 @@ Requirements:
 Jupyter Notebooks
 
 Python Packages:
-Pandas
 
+Pandas
+Matplotlib
 Plotlty
